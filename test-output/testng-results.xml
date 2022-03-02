@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79" started-at="2022-02-21T18:59:29 IST" finished-at="2022-02-21T18:59:29 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="79" started-at="2022-02-21T18:59:29 IST" finished-at="2022-02-21T18:59:29 IST">
+      <class name="com.Test_Next_Generation.Parameterized_Practise">
+        <test-method status="PASS" signature="loginPage2(java.lang.String,java.lang.String)[pri:0, instance:com.Test_Next_Generation.Parameterized_Practise@4d95d2a2]" name="loginPage2" duration-ms="0" started-at="2022-02-21T18:59:29 IST" finished-at="2022-02-21T18:59:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jack]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rose@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage2 -->
+      </class> <!-- com.Test_Next_Generation.Parameterized_Practise -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
